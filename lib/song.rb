@@ -18,6 +18,7 @@ class Song
     end 
   end 
   
-  
+  def self.all 
+    
   
 end 
